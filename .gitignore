@@ -1,0 +1,92 @@
+# ==========================================
+# 📝 MEDIUM ARTICLES
+# Exclude Medium articles from version control
+# ==========================================
+article-medium.md
+article-medium-en.md
+
+# ==========================================
+# 🗂️ DEVELOPMENT FILES
+# ==========================================
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# 📦 DEPENDENCIES
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# 🚀 BUILD AND DEPLOY
+# ==========================================
+dist/
+build/
+*.tgz
+*.tar.gz
+
+# ==========================================
+# 🔧 ENVIRONMENT AND CONFIG
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# 📊 LOGS AND CACHE
+# ==========================================
+logs
+*.log
+.cache/
+.parcel-cache/
+
+# ==========================================
+# 🧪 TESTING
+# ==========================================
+coverage/
+.nyc_output/
+
+# ==========================================
+# 📱 PWA GENERATED FILES
+# ==========================================
+# Service worker cache (if generated)
+sw-cache/
+workbox-*.js
+
+# ==========================================
+# 📸 SCREENSHOTS AND MEDIA
+# ==========================================
+# Screenshots and demo images
+screens/
+sreens/
+screenshots/
+*.png
+*.jpg
+*.gif
+*.pdf
+.sreens/
+# ==========================================
+# 📋 DOCUMENTATION DRAFTS
+# ==========================================
+# Uncomment if you have draft documentation
+# drafts/
+# *.draft.md
+# TODO.md
+# NOTES.md
