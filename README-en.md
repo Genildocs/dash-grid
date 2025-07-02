@@ -203,10 +203,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@Genildocs](https://github.com/Genildocs)
+- LinkedIn: [genildo-cerqueira](https://www.linkedin.com/in/genildo-cerqueira-91888786/)
+- Email: genildocs@gmail.com
 
 ## 🙏 Acknowledgments
 
