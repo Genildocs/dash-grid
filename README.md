@@ -41,7 +41,7 @@ Um dashboard moderno e profissional construído com CSS Grid avançado, dados di
 
 ## 🚀 Demo Online
 
-Acesse a demonstração: [Dashboard Demo](https://seu-dominio.com/dash-grid)
+Acesse a demonstração: [Dashboard Demo](https://genildocs.github.io/dash-grid/)
 
 ## 📦 Instalação
 
